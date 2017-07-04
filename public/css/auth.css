@@ -1,0 +1,81 @@
+
+#regisiter {
+    margin: 0 0.3rem;
+    background-color: #fff;
+    font-size: 0.3rem;
+    color: #ccc;
+    text-align: center;
+}
+#regisiter h1 {
+    text-align: center;
+    margin: 1.82rem 0 0.64rem 0;
+    font-size: 0.6rem;
+    color: #0b54b7;
+    line-height: 0.6rem;
+}
+.input_list {
+    height: 1.4rem;
+    border-bottom: 1px solid #ccc;
+    line-height: 1.4rem;
+    padding-left: 0.24rem;
+    text-align: left;
+}
+span.input_lable {
+    margin-right: 0.32rem;
+    vertical-align: middle;
+}
+img#phone-pic {
+    height: 0.42rem;
+    width: 0.3rem;
+}
+img#password-pic {
+    width: 0.34rem;
+    height: 0.43rem;
+}
+input.input_box {
+    border: none;
+    height: 0.7rem;
+    font-size: 0.3rem;
+    width: 2.2rem;
+}
+button#sendbtn {
+    width: 2.7rem;
+    border: 1px solid #1e1e1e;
+    border-radius: 31px;
+    height: 0.63rem;
+    margin-right: 0.22rem;
+    font-size: 0.3rem;
+    color: #1e1e1e;
+    float: right;
+    background-color: #fff;
+    line-height: 0.63rem;
+    margin-top: 0.44rem;
+    padding: 0;
+}
+button#sendbtn.disabled {
+    border: 1px solid #ccc;
+    background-color: #ccc;
+}
+button#submit {
+    width: 3.5rem;
+    height: 0.82rem;
+    border: none;
+    background-color: #0b54b7;
+    text-align: center;
+    line-height: 0.82rem;
+    border-radius: 0.41rem;
+    margin-top: 0.72rem;
+    color: #fff;
+    font-size: 0.3rem;
+}
+div#copyRight {
+    position: absolute;
+    bottom: 0.2rem;
+    text-align: center;
+    width: 100%;
+}
+div#copyRight img {
+    width: 4.08rem;
+    height: 0.2rem;
+    vertical-align: middle;
+}
